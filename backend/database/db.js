@@ -1,3 +1,3 @@
 module.exports = {
-    db: 'mongodb+srv://todo:todo@cluster0.dsiyh.mongodb.net/todo?retryWrites=true&w=majority'
+    db: 'mongodb+srv://x:x@cluster0.dsiyh.mongodb.net/todo?retryWrites=true&w=majority'
   };
